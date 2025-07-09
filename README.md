@@ -1,9 +1,9 @@
 # 🔌 FPGA Power Consumption Prediction Using AI
 
 ### 👨‍💻 Developed by:
-- D. Haneesh (212U1A0423)  
-- D. Boney Rahul (212U1A0424)  
-- M. Obaiah (212U1A0461)
+- D. Haneesh 
+- D. Boney Rahul
+- M. Obaiah
 
 ---
 
